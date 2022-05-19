@@ -28,7 +28,10 @@ In the next step you can adjust when the administrator interface is started.
 <p align="center">
   <img src="./img4readme/installFilezillaFtpServer_3.jpg" alt=installFilezillaFtpServer_3">
 </p>
-
+<br>
+The installation of the Filezilla FTP server is now completet:
+<br>
+<br>                                                                                          
 <p align="center">
   <img src="./img4readme/installFilezillaFtpServer_4.jpg" alt=installFilezillaFtpServer_4">
 </p>
