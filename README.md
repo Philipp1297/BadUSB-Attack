@@ -13,7 +13,10 @@ It is recommended to install all the components shown in following figure:
 <p align="center">
   <img src="./img4readme/installFilezillaFtpServer_1.jpg" alt=installFilezillaFtpServer_1">
 </p>
-
+<br>
+With the help of the administrator interface the administration of the FTP server is easier and more user-friendly. The desktop icons and the start menu shortcuts make it easy to start and stop the FTP server.
+                                                                                          
+<br>                                                                                          
  <p align="center">
   <img src="./img4readme/installFilezillaFtpServer_2.jpg" alt=installFilezillaFtpServer_2">
 </p>
