@@ -17,11 +17,12 @@ With the help of the administrator interface the administration of the FTP serve
 <br>
 In the server settings the FTP-server can be installed either as a service in the Windows startup or as a service that has to be started manually. <br>
 The admin-rator-interface port can also be changed afterwards. This is advisable if another service is already using the default defined port. In addition, an administrator password for the FTP server must be selected here. Whenever something has to be changed on the FTP-server later on, the administrator interface has to be accessed, you will be asked for the password.                                                                                          
-                                                                                          
+<br>                                                                                          
  <p align="center">
   <img src="./img4readme/installFilezillaFtpServer_2.jpg" alt=installFilezillaFtpServer_2">
 </p>
-
+In the next step you can adjust when the administrator interface is started.
+<br>
 <p align="center">
   <img src="./img4readme/installFilezillaFtpServer_3.jpg" alt=installFilezillaFtpServer_3">
 </p>
