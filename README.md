@@ -38,10 +38,12 @@ The installation of the Filezilla FTP server is now completet:
 
 
 ## Configuration Filezilla FTP-Server
+To configure the Filezilla-FTP-Server, the application: "Administer FileZilla Server" has to be started.
 <p align="center">
   <img src="./img4readme/ConfigFilezillaFtpServer_1.jpg" alt="ConfigFilezillaFtpServer_1">
 </p>
-
+<br>
+Once the application has been started, the password defined during the installation must be enetered. 
 <p align="center">
   <img src="./img4readme/ConfigFilezillaFtpServer_2.jpg" alt="ConfigFilezillaFtpServer_2">
 </p>
