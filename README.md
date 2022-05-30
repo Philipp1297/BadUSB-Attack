@@ -64,8 +64,11 @@ Now we have to create a new user within the FTP-Server and set a password for au
   <img src="./img4readme/ConfigFilezillaFtpServer_4.jpg" alt="ConfigFilezillaFtpServer_4">
 </p>
 <br>
-The "Natice path" has to be set up on the Computer. In this case, a folder has been created in the following directory:
+The "Natice path" has to be set up on the Computer. In this case, a folder has been created in the following directory: <br>
 C:\Users\phili\ftp-server
+<br>
+<br>
+In this folder you can find the content depending on the configured folder structure:
 <br>
 <p align="center">
   <img src="./img4readme/ConfigFilezillaFtpServer_5.jpg" alt="ConfigFilezillaFtpServer_5">
