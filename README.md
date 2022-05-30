@@ -64,7 +64,7 @@ Now we have to create a new user within the FTP-Server and set a password for au
 </p>
 <br>
 The "Natice path" has to be set up on the Computer. In this case, a folder has been created in the following directory: <br>
-<center>C:\Users\phili\ftp-server </center>
+<center> C:\Users\phili\ftp-server </center>
 <br>
 <br>
 In this folder you can find the content depending on the configured folder structure:
